@@ -1,5 +1,4 @@
 #!/bin/sh
-print 'By Mr.4k'
 print_pgp_key() {
   cat <<-EOF
 -----BEGIN PGP PUBLIC KEY BLOCK-----
